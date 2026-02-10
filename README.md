@@ -1,1 +1,2 @@
 # finalize
+invite people
